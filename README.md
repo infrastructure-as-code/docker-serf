@@ -1,6 +1,6 @@
 # vincetse/serf
 
-A tiny Docker image with [HashiCorp Serf](https://www.serfdom.io/) using Alpine Linux as a base image.
+A tiny Docker image with [HashiCorp Serf](https://www.serfdom.io/) using Alpine Linux as a base image.  Built and pushed to Docker Hub as [vincetse/serf](https://hub.docker.com/r/vincetse/serf/).
 
 ## Running
 
