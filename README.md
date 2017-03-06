@@ -1,11 +1,11 @@
-# vincetse/serf
+# infrastructureascode/serf
 
-A tiny Docker image with [HashiCorp Serf](https://www.serfdom.io/) using Alpine Linux as a base image.  Built and pushed to Docker Hub as [vincetse/serf](https://hub.docker.com/r/vincetse/serf/).
+A tiny Docker image with [HashiCorp Serf](https://www.serfdom.io/) using Alpine Linux as a base image.  Built and pushed to Docker Hub as [infrastructureascode/serf](https://hub.docker.com/r/infrastructureascode/serf/).
 
 ## Running
 
 ```
-$ docker run vincetse/serf serf
+$ docker run infrastructureascode/serf serf
 usage: serf [--version] [--help] <command> [<args>]
 
 Available commands are:
