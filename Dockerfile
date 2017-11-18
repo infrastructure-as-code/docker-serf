@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.6
 MAINTAINER Vince Tse <thelazyenginerd@gmail.com>
 
 # Update the base image
